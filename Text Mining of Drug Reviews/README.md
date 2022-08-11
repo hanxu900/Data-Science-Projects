@@ -20,4 +20,4 @@ This project used data collected from an online drug review website to conduct e
 * LDA
 
 # Conclusion
-TF-IDF were found to be the most effective approach to convert textual data to numerical values. XGBoost got the highest accuracy (0.80) and f1-score (0.79) while logistic regression and SVM also showed high prediction power on the sentiment. Ensemble learning with logistic regression, SVM and XGBoost improved the final accuracy by 1%. In the topic modelling part, the four topics identified are related to the conditions, side effect, life change and other, respectively.
+TF-IDF were found to be the most effective approach to convert textual data to numerical values. XGBoost got the highest accuracy (0.80) and f1-score (0.79) while logistic regression and SVM also showed high prediction power on the sentiment. Ensemble learning with logistic regression, SVM and XGBoost improved the final accuracy by 1%. In the topic modeling part, the four topics identified are related to the conditions, side effect, life change and other, respectively.
